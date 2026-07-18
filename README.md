@@ -8,7 +8,7 @@ Recommended repository name: `disaster-spot-alert`
 
 ## Domain candidates
 
-First candidate: `disasterspot.jp`
+Confirmed domain: `disasterspot.jp`
 
 Other candidates:
 
