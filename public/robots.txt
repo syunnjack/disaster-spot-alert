@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://disaster-spot-alert.vercel.app/sitemap.xml
+Sitemap: https://disasterspot.jp/sitemap.xml
