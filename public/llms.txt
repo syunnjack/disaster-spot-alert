@@ -1,7 +1,4 @@
-# Disaster Spot Alert
+# disasterspot.jp
 
-災害、悪天候、交通停止時に避難、営業中、充電、トイレ、宿泊スポットを通知する地域SaaS。
-
-Notification channels: LINE, X, email, Slack
-Revenue: 防災広告, 自治体SaaS, 企業契約, 店舗送客, スポンサー
-Primary categories: 避難, 営業中, 充電, トイレ, 宿泊
+このサイトは準備中です。掲載できる情報が揃うまで、内容の公開を見合わせています。
+現時点で参照できるデータはありません。
